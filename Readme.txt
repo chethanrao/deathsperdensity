@@ -5,6 +5,6 @@ area and still the the confirmed cases could be more. Though when considering de
 a particular city rather a large country as density would different in a city and a village within a country.
 Smaller the area of measurement shows better how the city or county or a small region was managed.
 Another criteria would look at density of blue collar workers in a particular area while implementing a response. Blue collar workers tend to be more mobile than white collar workers. 
-Also density of people with age above 65 and higher standard deviation would show that even if seniors were stationary the young population could spread the virus to seniors causing impact. Assuming seniors are less mobile and young population is mobile.
+Also density of people with age above 65 and higher standard deviation for age would show that even if seniors were stationary the young population could spread the virus to seniors causing impact. Assuming seniors are less mobile and young population is more mobile.
 To run this program:
 python3 deathsperpopulationdensity.py>output.txt
